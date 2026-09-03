@@ -19,6 +19,9 @@ Fourchettes de `CO2e`:
 > Ouvrir un nouveau fichier dans votre éditeur. Copier ce tableau et parier. 
 > Pas de calcul, pas de recherche. Votre intuition. En silence.
 
+<details>
+<summary>Correction</summary>
+
 ## Corrections / explications
 
 | # | Situation                                               | Réponse        | Équiv. voiture¹ |
@@ -161,5 +164,6 @@ Ce qui varie :
 - **La résolution** : une image 2048×2048 coûte sensiblement plus qu'une 512×512.
 - **Les variantes** : générer 4 variantes × upscale = 5 à 8× le coût d'une image simple.
 
-
 Source : [Luccioni, A. S., Jernite, Y., & Strubell, E. (2024). "Power Hungry Processing: Watts Driving the Cost of AI Deployment?"](https://arxiv.org/abs/2311.16863)
+
+</details>
