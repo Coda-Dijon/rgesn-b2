@@ -1,0 +1,22 @@
+[book]
+title = "Le RGESN en action"
+authors = ["Yoan Thirion"]
+language = "fr"
+src = "."
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coda"
+additional-css = ["theme/css/coda.css"]
+site-url = "/rgesn-b2/"
+git-repository-url = "https://github.com/ythirion/rgesn-b2"
+additional-js = ["js/mermaid.min.js", "js/mermaid-init.js"]
+
+[output.html.search]
+enable = true
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html.playground]
+editable = false

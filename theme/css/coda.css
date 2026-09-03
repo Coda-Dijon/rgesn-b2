@@ -1,0 +1,59 @@
+.coda {
+    --bg: #080331;
+    --fg: #ffffff;
+
+    --sidebar-bg: #0f0540;
+    --sidebar-fg: #9788c3;
+    --sidebar-non-existant: #342068;
+    --sidebar-active: #ddf849;
+    --sidebar-spacer: #2a1668;
+
+    --scrollbar: #9788c3;
+
+    --icons: #9788c3;
+    --icons-hover: #ddf849;
+
+    --links: #ddf849;
+
+    --inline-code-color: #dd23bb;
+
+    --theme-popup-bg: #0f0540;
+    --theme-popup-border: #2a1668;
+    --theme-hover: #18095a;
+
+    --quote-bg: #18095a;
+    --quote-border: #2a1668;
+
+    --warning-border: #dd23bb;
+
+    --table-border-color: #2a1668;
+    --table-header-bg: #18095a;
+    --table-alternate-bg: #0f0540;
+
+    --searchbar-border-color: #2a1668;
+    --searchbar-bg: #18095a;
+    --searchbar-fg: #ffffff;
+    --searchbar-shadow-color: #4b00eb;
+    --searchresults-header-fg: #9788c3;
+    --searchresults-border-color: #342068;
+    --searchresults-li-bg: #0f0540;
+    --search-mark-bg: #ddf849;
+
+    --color-scheme: dark;
+
+    /* icon filters matching --icons (#9788c3) and --sidebar-active (#ddf849) */
+    --copy-button-filter: invert(60%) sepia(15%) saturate(500%) hue-rotate(220deg) brightness(90%) contrast(85%);
+    --copy-button-filter-hover: invert(88%) sepia(42%) saturate(629%) hue-rotate(22deg) brightness(106%) contrast(97%);
+
+    --footnote-highlight: #4b00eb;
+
+    --overlay-bg: rgba(8, 3, 49, 0.7);
+
+    --blockquote-note-color: #6680ff;
+    --blockquote-tip-color: #ddf849;
+    --blockquote-important-color: #dd23bb;
+    --blockquote-warning-color: #ddf849;
+    --blockquote-caution-color: #dd23bb;
+
+    --sidebar-header-border-color: #ddf849;
+}
