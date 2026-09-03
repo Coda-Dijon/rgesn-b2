@@ -1,0 +1,36 @@
+.github/workflows/deploy.yml
+  h_0a88d9aba8622a 1-42
+.gitignore
+  h_0a88d9aba8622a 1-3
+01.introduction/README.md
+  h_0a88d9aba8622a 1-165
+Plan.md
+  h_0a88d9aba8622a 1-65
+README.md
+  h_0a88d9aba8622a 1-9
+SUMMARY.md
+  h_0a88d9aba8622a 1-5
+book.toml
+  h_0a88d9aba8622a 1-22
+js/mermaid-init.js
+  h_0a88d9aba8622a 1-39
+js/mermaid.min.js
+  h_0a88d9aba8622a 1-2609
+letter-flop/README.md
+  h_0a88d9aba8622a 1-54
+theme/css/coda.css
+  h_0a88d9aba8622a 1-59
+theme/index.hbs
+  h_0a88d9aba8622a 1-368
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "f142b639518cf89ca7f606c2cbab3ca39554cab6",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
