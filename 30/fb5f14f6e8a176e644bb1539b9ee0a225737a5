@@ -1,0 +1,17 @@
+SUMMARY.md
+  h_0a88d9aba8622a 7-12
+  h_0a88d9aba8622a 6
+03.strategie/README.md
+  h_0a88d9aba8622a 1-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "30fb5f14f6e8a176e644bb1539b9ee0a225737a5",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
