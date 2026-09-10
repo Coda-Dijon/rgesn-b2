@@ -11,3 +11,4 @@
 # Le RGESN en pratique
 - [Stratégie](03.strategie/README.md)
 - [Spécifications](04.specifications/README.md)
+- [Architecture](05.architecture/README.md)

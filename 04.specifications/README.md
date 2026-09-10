@@ -108,7 +108,7 @@ Voici les trois fonctionnalités dans le backlog pour letter-flop :
 **Appliquez la grille pour chaque US :**
 
 ```markdown
-| Critère | Question à se po ser                                       | US-A | US-B | US-C |
+| Critère | Question à se poser                                       | US-A | US-B | US-C |
 |---------|------------------------------------------------------------|------|------|------|
 | 2.6     | L'impact a-t-il été évalué avant de décider de builder ?   |      |      |      |
 | 2.3     | Fonctionne-t-elle sur connexion lente ou vieux mobile ?    |      |      |      |
