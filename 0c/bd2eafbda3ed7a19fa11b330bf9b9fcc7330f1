@@ -1,0 +1,19 @@
+SUMMARY.md
+  h_0a88d9aba8622a 16-17
+  h_0a88d9aba8622a 15
+07.frontend/README.md
+  h_0a88d9aba8622a 1-317
+07.frontend/scripts/convert_to_webp.md
+  h_0a88d9aba8622a 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0cbd2eafbda3ed7a19fa11b330bf9b9fcc7330f1",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
