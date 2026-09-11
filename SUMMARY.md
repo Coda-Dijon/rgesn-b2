@@ -12,3 +12,4 @@
 - [Stratégie](03.strategie/README.md)
 - [Spécifications](04.specifications/README.md)
 - [Architecture](05.architecture/README.md)
+- [UX/UI](06.ux-ui/README.md)
