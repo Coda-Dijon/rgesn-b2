@@ -13,3 +13,5 @@
 - [Spécifications](04.specifications/README.md)
 - [Architecture](05.architecture/README.md)
 - [UX/UI](06.ux-ui/README.md)
+- [Frontend](07.frontend/README.md)
+  - [Script webp](07.frontend/scripts/convert_to_webp.md)
