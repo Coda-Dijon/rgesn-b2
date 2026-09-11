@@ -1,0 +1,22 @@
+08.backend/README.md
+  h_0a88d9aba8622a 1-774
+09.hebergement/README.md
+  h_0a88d9aba8622a 1-289
+10.benchmarks/README.md
+  h_0a88d9aba8622a 1-26
+10.benchmarks/apres.md
+  h_0a88d9aba8622a 1-497
+10.benchmarks/avant.md
+  h_0a88d9aba8622a 1-495
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1e40e3fb9a356713b86e09ddbbf939e478757108",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
